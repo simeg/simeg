@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm Simon. I enjoy writing code, and tech in general. I'm not that active here, sometimes, but mostly not.
+I'm Simon. I enjoy writing code, and tech in general.
 
-Check out the cool snake I found 😎
+I just started writing at [dotlog](https://simeg.github.io/).
+
+Check out this cool snake I found 😎
 
 ###
 
