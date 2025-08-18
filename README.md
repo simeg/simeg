@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi there 👋
 
 I'm Simon. I enjoy writing code, and tech in general. I'm not that active here, sometimes, but mostly not.
 
@@ -6,7 +6,7 @@ Check out the cool snake I found 😎
 
 ###
 
-<img src="https://raw.githubusercontent.com/simeg/simeg/output/snake.svg" alt="Snake animation" />
+<img src="output/snake.svg" alt="Snake animation" />
 
 ###
 
