@@ -8,7 +8,7 @@ Check out this cool snake I found 😎
 
 ###
 
-<img src="output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
