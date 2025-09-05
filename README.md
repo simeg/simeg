@@ -4,7 +4,7 @@ I'm Simon. I enjoy writing code, and tech in general 🤓
 
 I sometimes write at [dotlog](https://simeg.github.io/).
 
-## My latest projects
+## My Latest Projects
 - [bash-cli-spinners](https://github.com/simeg/bash-cli-spinners) - +80 Bash/Zsh spinners for scripts and terminal
 - [git-x](https://github.com/simeg/git-x) - Git extensions that feel like they belonged in Git from the start
 
