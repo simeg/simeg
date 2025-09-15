@@ -2,7 +2,7 @@
 
 I'm Simon. I enjoy writing code, and tech in general 🤓
 
-I've written a book, "[Commit to Cloud - Beginner’s Guide to DevOps with GitHub Actions & AWS](https://prplcode.gumroad.com/l/commit-to-cloud)"! 📚
+I've written a book: "[Commit to Cloud - Beginner’s Guide to DevOps with GitHub Actions & AWS](https://prplcode.gumroad.com/l/commit-to-cloud)"! 📚
 
 I sometimes write at [dotlog](https://simeg.github.io/).
 
